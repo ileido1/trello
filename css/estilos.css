@@ -1,0 +1,53 @@
+@import url('https://fonts.googleapis.com/css?family=Roboto');
+html {
+  margin: 0;
+  padding: 0;
+  -webkit-box-sizing: border-box;
+  -moz-box-sizing: border-box;
+  box-sizing: border-box; }
+
+body {
+ 
+  font-family: 'Roboto', sans-serif;
+  border-top: 30px solid #303F9F; 
+}
+
+.puntas{
+	font-size: 12px;
+	display: inline;
+
+}
+.switch{
+	padding-bottom: 5px;
+	    text-align: right;
+}
+ .formulario {
+    width: 100%;
+  max-width: 500px;
+  margin: auto;
+  background: #fff;
+  box-shadow: 0px 0px 3px grey; 
+  padding: 5px;
+}
+.colorgray{
+	color: #e0e0e0;
+}
+
+.titulo{
+	font-size: 30px;
+	color: #303F9F;
+	font-family: 'Roboto', sans-serif;
+	
+}
+.subtitulo{
+	padding-top: 10px;
+	font-size: 16px;
+	margin-top: 0px;
+	color: #303F9F;
+	font-family: 'Roboto', sans-serif;
+	
+}
+.centrar{
+	display: flex;
+  justify-content: center;
+}
